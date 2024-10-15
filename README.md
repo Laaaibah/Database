@@ -5,7 +5,7 @@ The e-commerce system connects sellers, customers, products, and orders, enablin
 
 
 ## ERD Image
-![ERD Image](https://raw.githubusercontent.com/Laaaibah/DB-/main/erd.png)
+![ERD Image](https://raw.githubusercontent.com/Laaaibah/Database/main/erd.png)
 
 ### ERD Explanation
 
